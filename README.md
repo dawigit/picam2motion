@@ -2,7 +2,7 @@
 
 ### Picamera2 based simple motion detection
 
-tested with debian bookworm / raspberry pi zero
+tested with debian 12 - bookworm / raspberry pi zero
 
 ### install
 
